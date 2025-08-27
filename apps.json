@@ -1,0 +1,13 @@
+{
+  "name": "Anura Official Repo",
+  "apps": [
+    {
+      "id": "sample-app",
+      "name": "Sample App",
+      "description": "This is a placeholder app for Anura OS.",
+      "version": "1.0",
+      "icon": "https://raw.githubusercontent.com/chromefoot/anura-os-app-store-not-good-/main/icons/sample-app.png",
+      "url": "https://raw.githubusercontent.com/chromefoot/anura-os-app-store-not-good-/main/apps/sample-app.zip"
+    }
+  ]
+}
